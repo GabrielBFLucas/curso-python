@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Aprendiz e esta é a área de programação em PYTHON deste canal! Aqui está tudo que aprendi e desenvolvo.
+    Sou Desenvolvedor Aprendiz e esta é a área de programação em PYTHON deste canal! Mude de MASTER PARA MAIN e acesse meus projetos.
   </p>
   
   <p align="center">
