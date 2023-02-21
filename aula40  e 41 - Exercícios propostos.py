@@ -1,7 +1,6 @@
 """
 1 - Crie uma funçao1 que recebe uma função2 como parâmetro e retorne o valor da
 função2 executada.
-
 """
 # func = input('Digite algo: ') #escopo global
 #
